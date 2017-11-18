@@ -13,3 +13,5 @@ EXPOSE 5000/tcp
 EXPOSE 80/tcp
 ENV ASPNETCORE_URLS http://*:5000
 ENTRYPOINT [ "dotnet", "webtest.dll" ]
+
+
