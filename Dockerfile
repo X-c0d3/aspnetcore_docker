@@ -6,7 +6,7 @@ RUN dotnet publish --output /output --configuration Release
 
 
 
-#FROM microsoft/dotnet:2.0.0-sdk
+FROM microsoft/dotnet:2.0.0-sdk
 COPY --from=build /output /app
 WORKDIR /app
 EXPOSE 5000/tcp
