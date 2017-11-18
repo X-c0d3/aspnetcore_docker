@@ -8,4 +8,4 @@ ENV ASPNETCORE_URLS http://*:5000
 ENTRYPOINT dotnet run
 
 
-test
+test 1
