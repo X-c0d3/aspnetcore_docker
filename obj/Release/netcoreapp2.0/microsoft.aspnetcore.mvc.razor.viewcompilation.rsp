@@ -1,0 +1,12 @@
+/Users/x-c0d3/Desktop/DockerVM/test/webtest
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=webtest
+--content-root=/Users/x-c0d3/Desktop/DockerVM/test/webtest
+--file=/Users/x-c0d3/Desktop/DockerVM/test/webtest/Views/Home/About.cshtml
+--file=/Users/x-c0d3/Desktop/DockerVM/test/webtest/Views/Home/Contact.cshtml
+--file=/Users/x-c0d3/Desktop/DockerVM/test/webtest/Views/Home/Index.cshtml
+--file=/Users/x-c0d3/Desktop/DockerVM/test/webtest/Views/Shared/Error.cshtml
+--file=/Users/x-c0d3/Desktop/DockerVM/test/webtest/Views/Shared/_Layout.cshtml
+--file=/Users/x-c0d3/Desktop/DockerVM/test/webtest/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/x-c0d3/Desktop/DockerVM/test/webtest/Views/_ViewImports.cshtml
+--file=/Users/x-c0d3/Desktop/DockerVM/test/webtest/Views/_ViewStart.cshtml

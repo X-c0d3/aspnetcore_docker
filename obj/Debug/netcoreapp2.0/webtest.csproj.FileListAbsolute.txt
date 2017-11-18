@@ -1,0 +1,10 @@
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/bin/Debug/netcoreapp2.0/webtest.deps.json
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/bin/Debug/netcoreapp2.0/webtest.runtimeconfig.json
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/bin/Debug/netcoreapp2.0/webtest.runtimeconfig.dev.json
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/bin/Debug/netcoreapp2.0/webtest.dll
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/bin/Debug/netcoreapp2.0/webtest.pdb
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/obj/Debug/netcoreapp2.0/webtest.csproj.CoreCompileInputs.cache
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/obj/Debug/netcoreapp2.0/webtest.AssemblyInfoInputs.cache
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/obj/Debug/netcoreapp2.0/webtest.AssemblyInfo.cs
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/obj/Debug/netcoreapp2.0/webtest.dll
+/Users/x-c0d3/Desktop/DockerVM/test/webtest/obj/Debug/netcoreapp2.0/webtest.pdb
